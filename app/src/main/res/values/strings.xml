@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">New_Assignment</string>
+    <string-array name="emotion_list">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Delighted</item>
+        <item>Upset</item>
+        <item>Surprised</item>
+        <item>Loved</item>
+    </string-array>
+</resources>
